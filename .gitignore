@@ -13,6 +13,7 @@
 **/*.env.test.local
 **/*.env.production.local
 
+main
 
 
 npm-debug.log*

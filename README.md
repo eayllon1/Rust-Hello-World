@@ -19,3 +19,10 @@ You should see:
 ```
 Hello, world!
 ```
+
+Alternatively, you can run the cargo project.
+
+```
+cd hello_cargo
+cargo run
+```
